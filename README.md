@@ -1,4 +1,4 @@
-# DriverMMGNN
+# DMGNN
 ## Requirements
 - Python 3.10.9
 - Pytorch 1.13.1+cu115
